@@ -1,0 +1,17 @@
+E:\Anirudha\Projects\JsonScrutinize\JsonScrutinize\bin\Release\net8.0\JsonScrutinize.deps.json
+E:\Anirudha\Projects\JsonScrutinize\JsonScrutinize\bin\Release\net8.0\JsonScrutinize.dll
+E:\Anirudha\Projects\JsonScrutinize\JsonScrutinize\bin\Release\net8.0\JsonScrutinize.pdb
+E:\Anirudha\Projects\JsonScrutinize\JsonScrutinize\obj\Release\net8.0\JsonScrutinize.csproj.AssemblyReference.cache
+E:\Anirudha\Projects\JsonScrutinize\JsonScrutinize\obj\Release\net8.0\JsonScrutinize.GeneratedMSBuildEditorConfig.editorconfig
+E:\Anirudha\Projects\JsonScrutinize\JsonScrutinize\obj\Release\net8.0\JsonScrutinize.AssemblyInfoInputs.cache
+E:\Anirudha\Projects\JsonScrutinize\JsonScrutinize\obj\Release\net8.0\JsonScrutinize.AssemblyInfo.cs
+E:\Anirudha\Projects\JsonScrutinize\JsonScrutinize\obj\Release\net8.0\JsonScrutinize.csproj.CoreCompileInputs.cache
+E:\Anirudha\Projects\JsonScrutinize\JsonScrutinize\obj\Release\net8.0\JsonScrutinize.dll
+E:\Anirudha\Projects\JsonScrutinize\JsonScrutinize\obj\Release\net8.0\refint\JsonScrutinize.dll
+E:\Anirudha\Projects\JsonScrutinize\JsonScrutinize\obj\Release\net8.0\JsonScrutinize.pdb
+E:\Anirudha\Projects\JsonScrutinize\JsonScrutinize\obj\Release\net8.0\ref\JsonScrutinize.dll
+E:\Anirudha\Projects\JsonScrutinize\JsonScrutinize\bin\Release\net8.0\main.cs
+E:\Anirudha\Projects\JsonScrutinize\JsonScrutinize\bin\Release\net8.0\LICENSE.txt
+E:\Anirudha\Projects\JsonScrutinize\JsonScrutinize\bin\Release\net8.0\logo.png
+E:\Anirudha\Projects\JsonScrutinize\JsonScrutinize\bin\Release\net8.0\readme.md
+E:\Anirudha\Projects\JsonScrutinize\JsonScrutinize\obj\Release\net8.0\JsonScrutinize.sourcelink.json

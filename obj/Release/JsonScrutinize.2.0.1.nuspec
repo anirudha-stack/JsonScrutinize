@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>JsonScrutinize</id>
+    <version>2.0.1</version>
+    <title>JsonScrutinize</title>
+    <authors>JsonScrutinize</authors>
+    <license type="file">LICENSE.txt</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <icon>logo.png</icon>
+    <readme>readme.md</readme>
+    <projectUrl>https://github.com/anirudha-stack/JsonScrutinize</projectUrl>
+    <description>A library created for JSON compliance.</description>
+    <tags>json validate compliance schema checker</tags>
+    <repository type="git" url="https://github.com/anirudha-stack/JsonScrutinize" commit="998c97c829b849fbdb9572d34d82c2e8e08469d8" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Newtonsoft.Json" version="13.0.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\Anirudha\Projects\JsonScrutinize\JsonScrutinize\bin\Release\net8.0\JsonScrutinize.dll" target="lib\net8.0\JsonScrutinize.dll" />
+    <file src="E:\Anirudha\Projects\JsonScrutinize\JsonScrutinize\LICENSE.txt" target="\LICENSE.txt" />
+    <file src="E:\Anirudha\Projects\JsonScrutinize\JsonScrutinize\logo.png" target="\logo.png" />
+    <file src="E:\Anirudha\Projects\JsonScrutinize\JsonScrutinize\readme.md" target="\readme.md" />
+  </files>
+</package>

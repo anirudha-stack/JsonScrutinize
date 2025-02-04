@@ -12,7 +12,7 @@
     <RepositoryUrl>https://github.com/anirudha-stack/JsonScrutinize</RepositoryUrl>
     <PackageTags>json;validate;compliance;schema;checker;</PackageTags>
     <PackAsTool>False</PackAsTool>
-	  <VersionPrefix>2.0.0</VersionPrefix>
+	  <VersionPrefix>2.0.1</VersionPrefix>
 	  <PackageReadmeFile>readme.md</PackageReadmeFile>
 	  <PackageProjectUrl>https://github.com/anirudha-stack/JsonScrutinize</PackageProjectUrl>
 	  <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>

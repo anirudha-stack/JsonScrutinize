@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Work\\JsonScrutinize\\JsonScrutinize.csproj": {}
+    "E:\\Anirudha\\Projects\\JsonScrutinize\\JsonScrutinize\\JsonScrutinize.csproj": {}
   },
   "projects": {
-    "D:\\Work\\JsonScrutinize\\JsonScrutinize.csproj": {
-      "version": "2.0.0",
+    "E:\\Anirudha\\Projects\\JsonScrutinize\\JsonScrutinize\\JsonScrutinize.csproj": {
+      "version": "2.0.1",
       "restore": {
-        "projectUniqueName": "D:\\Work\\JsonScrutinize\\JsonScrutinize.csproj",
+        "projectUniqueName": "E:\\Anirudha\\Projects\\JsonScrutinize\\JsonScrutinize\\JsonScrutinize.csproj",
         "projectName": "JsonScrutinize",
-        "projectPath": "D:\\Work\\JsonScrutinize\\JsonScrutinize.csproj",
-        "packagesPath": "C:\\Users\\anirudhagaikwad\\.nuget\\packages\\",
-        "outputPath": "D:\\Work\\JsonScrutinize\\obj\\",
+        "projectPath": "E:\\Anirudha\\Projects\\JsonScrutinize\\JsonScrutinize\\JsonScrutinize.csproj",
+        "packagesPath": "C:\\Users\\ANIRUDHAGAIKWAD\\.nuget\\packages\\",
+        "outputPath": "E:\\Anirudha\\Projects\\JsonScrutinize\\JsonScrutinize\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\anirudhagaikwad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ANIRUDHAGAIKWAD\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +22,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "E:\\Anirudha\\Projects\\BFL_2022_ConvertToPDF\\SampleFiles": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -34,22 +36,39 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

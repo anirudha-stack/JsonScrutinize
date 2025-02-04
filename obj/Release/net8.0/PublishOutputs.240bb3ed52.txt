@@ -1,0 +1,4 @@
+E:\Anirudha\Projects\JsonScrutinize\JsonScrutinize\bin\Release\net8.0\publish\JsonScrutinize.dll
+E:\Anirudha\Projects\JsonScrutinize\JsonScrutinize\bin\Release\net8.0\publish\JsonScrutinize.deps.json
+E:\Anirudha\Projects\JsonScrutinize\JsonScrutinize\bin\Release\net8.0\publish\JsonScrutinize.pdb
+E:\Anirudha\Projects\JsonScrutinize\JsonScrutinize\bin\Release\net8.0\publish\Newtonsoft.Json.dll

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "kfmIme+ldM3k0J5nZNNlEQ/QWcAJebfpxgBZ0t4pktS/pocmbZk4nd1OQEdFI/a5Yb+3/fVY2XjxSVS9fwUe5w==",
+  "dgSpecHash": "HZaTNa01HxA=",
   "success": true,
-  "projectFilePath": "D:\\Work\\JsonScrutinize\\JsonScrutinize.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\Anirudha\\Projects\\JsonScrutinize\\JsonScrutinize\\JsonScrutinize.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ANIRUDHAGAIKWAD\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
